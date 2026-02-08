@@ -2,6 +2,8 @@
 
 An interactive AI chatbot built using **Gemini-2.5-Flash** and **Streamlit** that allows users to have real-time conversations with Google’s powerful Generative AI model through a simple web interface.
 
+Project Link - https://geminipro-chatbot-project.streamlit.app/
+
 ---
 
 ## 🚀 Project Overview
@@ -36,6 +38,4 @@ Perfect for learning **Generative AI application development**.
 📱 Responsive web app  
 
 ---
-
-## 📂 Project Structure
 
